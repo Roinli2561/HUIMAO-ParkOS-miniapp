@@ -1,8 +1,7 @@
 {
-    "id": "胶割机",
-    "name": "胶割机",
+    "name": "huimao-parkos-miniapp",
     "version": "1.0.0",
-    "description": "",
+    "description": "慧猫开源停车平台 · 车主小程序",
     "keywords": [
         ""
     ],

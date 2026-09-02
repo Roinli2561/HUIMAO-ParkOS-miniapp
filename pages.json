@@ -105,7 +105,7 @@
 	},
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "割胶机",
+		"navigationBarTitleText": "慧猫开源停车平台",
 		"navigationBarBackgroundColor": "#fff",
 		"backgroundColor": "#fff"
 	}

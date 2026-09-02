@@ -37,7 +37,7 @@
 			},
 			title: {
 				type: String,
-				default: "充电桩"
+				default: "慧猫停车"
 			}
 		},
 		data() {

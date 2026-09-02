@@ -2,7 +2,7 @@ export const mixin = {
   data() {
     return {
       share: {
-        title: "割胶机",
+        title: "慧猫停车",
         path: "",
         imageUrl: "",
       },
