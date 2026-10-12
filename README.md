@@ -103,6 +103,12 @@ manifest.json         uni-app 应用配置（各端 appid、SDK 等）
 pages.json            页面路由与 tabBar 配置
 ```
 
+---
+
+### 🖥 +v:18601938676 如果您也对开源感兴趣，欢迎加入群 ,加群请注明原因，开源、共享、共赢永远是主旋律。
+
+![输入图片说明](doc/huizhi/images/我的.png)
+
 ## 📚 相关资料
 
 - ☁️ 云端服务：https://github.com/Roinli2561/HUIMAO-ParkOS-cloud
